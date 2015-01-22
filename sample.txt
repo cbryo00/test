@@ -3,12 +3,3 @@ bbbbbbbbbb
 
 cccccc
 
-
-dddddd
-
-
-eeeee
-ddddd
-
-aaaaaaa
-ccccc
